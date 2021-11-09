@@ -1,3 +1,3 @@
 # CrehanaWeb
 
-Ejercicios realizados en cursos de Crehana sobre desarrollo web.
+Ejercicios realizados en cursos sobre desarrollo web.
